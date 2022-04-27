@@ -10,11 +10,11 @@ I have spents my last six years working in a hospital :hospital: using virtual r
 
 28 years enjoying life :smiley:
 
-*   🌍  I'm based in Madrid, Spain.
-*   ✉️  You can contact me at [jrodhdev@gmail.com](mailto:jrodhdev@gmail.com)
-*   💡  I'm learning Native Apps Develop.
-*   👨‍🎓 I'm trying to improve my english skills.
-*   ⚡  Cofounder of Kawaiikiwis eSports.
+*   🌍  I'm based in Madrid, Spain.
+*   ✉️  You can contact me at [jrodhdev@gmail.com](mailto:jrodhdev@gmail.com)
+*   💡   I'm learning Native Apps Develop.
+*   👨‍🎓   I'm trying to improve my english skills.
+*   ⚡   Cofounder of Kawaiikiwis eSports.
 
 ### Skills<p align="left">
   
