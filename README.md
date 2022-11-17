@@ -6,9 +6,9 @@ I'm a Flutter developer.
 
 I have spents my last six years working in a hospital :hospital: using virtual reality :milky\_way: and mobile apps :iphone: as a tool to neurorehabilitate people with acquired brain injury 🧠. Two years ago, my passion for learning new things, led me to start learning programming, so i decided to change my career path and become a professional Software Engineer. 
 
-2 years learning to code :computer: 
+3 years learning to code :computer: 
 
-28 years enjoying life :smiley:
+29 years enjoying life :smiley:
 
 *   🌍  I'm based in Madrid, Spain.
 *   ✉️  You can contact me at [jrodhdev@gmail.com](mailto:jrodhdev@gmail.com)
