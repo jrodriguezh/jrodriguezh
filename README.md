@@ -8,7 +8,7 @@ After completing my postgraduate studies, I worked in a hospital :hospital: for 
 
 3 years coding :computer: 
 
-29 years enjoying life :smiley:
+30 years enjoying life :smiley:
 
 *   🌍  I'm based in Madrid, Spain.
 *   ✉️  You can contact me at [jrodhdev@gmail.com](mailto:jrodhdev@gmail.com)
