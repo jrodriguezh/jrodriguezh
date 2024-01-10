@@ -4,7 +4,7 @@ Hi 👋 My name is Jesús.
 I'm a Flutter developer.
 ------------------------
 
-After completing my postgraduate studies, I worked in a hospital :hospital: for six years using virtual reality :milky\_way: and mobile apps :iphone: as a tool to neurorehabilitate people with acquired brain injury 🧠. Two years ago, my passion for learning new things, led me to start learning programming, so i decided to change my career path and become a professional Software Engineer. 
+After completing my postgraduate studies, I worked in a hospital :hospital: for six years using virtual reality :milky\_way: and mobile apps :iphone: as a tool to neurorehabilitate people with acquired brain injury 🧠. Three years ago, my passion for learning new things, led me to start learning programming, so i decided to change my career path and become a professional Software Engineer. 
 
 3 years coding :computer: 
 
